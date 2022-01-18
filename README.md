@@ -9,6 +9,7 @@ Ability of communicating ideas clearly and effeciently thus enabling to explain 
 
 CV available upon request.
 Contact: mohdarfan1298@gmail.com
+Linkedin : https://www.linkedin.com/in/mohd-arfan-67b37b183/
 
 - 🔭 I’m currently studying Mechanical Engineering  ...
 - 🌱 I’m currently learning C++ programming  ...
